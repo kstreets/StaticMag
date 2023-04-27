@@ -3,6 +3,7 @@
 
 Static Mag is a sci-fi action game where you steal weapons from enemies using a magnetic grapple and is being built with the Unity game engine. This repository contains a small subset of scripts for the game to get an idea of how I program.
 
+Watch "Static Mag: Overview and Key Features"
 [![Static Mag Overview Video](https://user-images.githubusercontent.com/52022661/235011495-68117a46-e003-4dda-8ded-2d8106832e31.png)](https://youtu.be/nDraKM92OQI)
 
 ![Overview 00_00_07_12 Still002](https://user-images.githubusercontent.com/52022661/234996825-0096c71f-583c-4a89-ae80-0caac6f0a687.png)
