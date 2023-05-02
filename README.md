@@ -18,7 +18,7 @@ Static Mag is a sci-fi action game where you steal weapons from enemies using a 
 * Reverse Cover System
    * Attacking enemies move to positions that are exposed from cover so the player can shoot them easily, increasing the intesity of combat. 
 * Distribution Based Enemy Accuracy
-   * The accuracy of attacking enemies is determined by an animation curve in Unity, but interpreted as a distribution curve, where the X values represent the distance in meters a bullet will miss the player by, and the Y values represents occurance.    
+   * The accuracy of attacking enemies is determined by an animation curve in Unity, but interpreted as a distribution curve, where the X values represent the distance in meters a bullet will miss the player by, and the Y values represents occurance. This allows the difficulty of the game to be tuned without introducing complete randomness. 
 
 Watch ["Static Mag: Overview and Key Features"](https://www.youtube.com/watch?v=nDraKM92OQI)
 
