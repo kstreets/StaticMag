@@ -10,8 +10,9 @@ Static Mag is a sci-fi action game where you steal weapons from enemies using a 
 * Sliding
 * Grappling
 * Velocity Correction
-### Advaced AI
-* Attack Coordinator: Assigns a subset of enemies to be attackers based on a scoring system that factors in player distance, player visibility, and enemy type.
+### Advance AI
+* Attack Coordinator
+    * Assigns a subset of enemies to be attackers based on a scoring system that factors in player distance, player visibility, and enemy type.
 * Cover System: Allows certain enemies to take cover behind obstacles or terrain while not attacking.
 * Reverse cover system to have enemies 
 * Enemy accuracy based 
