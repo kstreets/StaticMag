@@ -18,7 +18,19 @@ Static Mag is a sci-fi action game where you steal weapons from enemies using a 
 * Reverse Cover System
    * Attacking enemies move to positions that are exposed from cover so the player can shoot them easily, increasing the intesity of combat. 
 * Distribution Based Enemy Accuracy
-   * The accuracy of attacking enemies is determined by an animation curve in Unity, but interpreted as a distribution curve, where the X values represent the distance in meters a bullet will miss the player by, and the Y values represents occurance. This allows the difficulty of the game to be tuned without introducing complete randomness. 
+   * The accuracy of attacking enemies is determined by an animation curve in Unity, but interpreted as a distribution curve, where the X values represent the distance in meters a bullet will miss the player by, and the Y values represents occurance. This allows the difficulty of the game to be tuned without introducing complete randomness.
+### Current Enemies
+* Tac Soldier
+  * Humanoid soldier whose weapons can be stolen by the player using the magnet.
+  * Inverse kinematics that influence head, chest, and arms for procedural aiming.
+* Olive
+  * Floating turret that charges up and tracks the player with a laser beam.
+  * Player can use the magnet to launch themselves towards it and destroy it with a punch.
+  * Allows the player to jump across large gaps in the level.
+* Tick
+  * Small, aggressive four legged robot with a ticking time bomb.
+  * Chases the player and when within range, leaps and explodes near the player.
+  * Player can use the magnet to grab the robot and throw it at enemies before bomb timer expires.
 
 Watch ["Static Mag: Overview and Key Features"](https://www.youtube.com/watch?v=nDraKM92OQI)
 
